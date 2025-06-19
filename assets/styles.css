@@ -100,7 +100,7 @@ header nav a:hover {
 
 /* Hero Section */
 .hero {
-    background-image: url(../img/clantayrona.png);
+    background-image: url(../img/paquetayrona.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -647,3 +647,4 @@ footer p {
     }
 
 }
+

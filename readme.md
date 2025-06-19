@@ -70,7 +70,7 @@ Enlaces Externos: Haz clic en los botones para visitar las páginas oficiales de
 Estructura de Archivos
 plaintext
 
-clan-tayrona/
+** clan-tayrona/
 ├── assets/
 │   └── styles.css          # Hoja de estilos principal del sitio
 ├── img/
